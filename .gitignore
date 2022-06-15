@@ -1,0 +1,10 @@
+*.log
+.DS_Store
+node_modules
+public/sitemap.xml
+public/feed.xml
+.vercel
+.env
+.next
+# Contentlayer
+.contentlayer
